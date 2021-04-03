@@ -2,6 +2,8 @@
 
 Repositório com código utilizado para criação da base hospedada no Kaggle: [https://www.kaggle.com/silveiragustavo/ibge-censo-cep-coordenadas-renda-per-capita](https://www.kaggle.com/silveiragustavo/ibge-censo-cep-coordenadas-renda-per-capita)
 
+![geospatial_plot](geospatial_plot.png)
+
 ## Contexto
 
 Os dados do censo 2010 do IBGE são muito ricos, mas há sempre um grande trabalho a ser feito para consolidar as informações. O código de setor censitário permite associar a determinados locais muitos indicadores sociais importantes, como a renda per capita aproximada. 
